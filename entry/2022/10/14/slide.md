@@ -258,6 +258,23 @@ def send_registered_mail_handler(sender, instance, created, **kwargs):
 
 ----
 
+## ちょっと休憩
+
+----
+
+![height:600](./images/present1.png)
+
+----
+
+![height:600](./images/present2.png)
+
+----
+* OSS活動の貢献度合いに応じて、SQUEEZE運営ホテルどこでも使える割引クーポンのプレゼント企画やってます :gift:
+* ぜひSQUEEZEのブースに遊びに来てね！！
+* https://squeeze.notion.site/PyCon-JP-2022-SQUEEZE-daac39658d0a4e1b9343c78954a9db73
+
+----
+
 <!-- _class: invert -->
 
 ## タスクキューとは
